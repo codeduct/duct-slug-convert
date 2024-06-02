@@ -1,0 +1,25 @@
+{
+  "name": "duct-slug-convert",
+  "version": "1.0.0",
+  "description": "Text to Url Slug conversion tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "vue",
+    "nuxt",
+    "slug",
+    "slug convert",
+    "url convert",
+    "url",
+    "react",
+    "next"
+  ],
+  "author": "codeduct",
+  "license": "ISC",
+  "homepage": "https://codeduct.com/"
+}
